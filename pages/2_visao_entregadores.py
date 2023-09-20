@@ -12,7 +12,7 @@ from PIL import Image
 from streamlit_folium import folium_static
 
 st.set_page_config(
-    page_title='Visão Entregadpres',
+    page_title='Visão Entregadores',
     page_icon='🚗',
     layout='wide'
 )
